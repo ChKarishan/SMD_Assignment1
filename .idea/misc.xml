@@ -3,8 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/karishan/StudioProjects/IT_allrounder/app/src/main/res/drawable/round_image_gender_icon.xml" value="0.149" />
+        <entry key="..\:/Users/karishan/StudioProjects/IT_allrounder/app/src/main/res/drawable/rounded_corner_edittext.xml" value="0.149" />
+        <entry key="..\:/Users/karishan/StudioProjects/IT_allrounder/app/src/main/res/drawable/sign_up_button.xml" value="0.145" />
         <entry key="..\:/Users/karishan/StudioProjects/IT_allrounder/app/src/main/res/layout/activity_main.xml" value="0.128" />
+        <entry key="..\:/Users/karishan/StudioProjects/IT_allrounder/app/src/main/res/layout/activity_sign_up_page.xml" value="0.2" />
         <entry key="..\:/Users/karishan/StudioProjects/IT_allrounder/app/src/main/res/layout/s2.xml" value="0.20863616930312098" />
+        <entry key="..\:/Users/karishan/StudioProjects/IT_allrounder/app/src/main/res/layout/sign_up.xml" value="0.144" />
       </map>
     </option>
   </component>

@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Musify</string>
+    <string name="sign_in">Sign in</string>
+    <string name="user_name">Name</string>
+    <string name="user_mail">Email</string>
+    <string name="user_password">Password</string>
 </resources>
